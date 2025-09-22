@@ -45,7 +45,7 @@ Before using this extension, you'll need:
 
 The extension requires global configuration before you can create actions. This configuration applies to all actions within your property.
 
-![Extension Configuration](extension-configuration-view.png)
+![Extension Configuration](extension-configuration-view.png "Extension Configuration View")
 
 ### Required Configuration Fields
 
@@ -58,7 +58,7 @@ The extension requires global configuration before you can create actions. This 
 
 Here's how the configuration looks when filled out:
 
-![Extension Configuration Filled](extension-configuration-filled.png)
+![Extension Configuration Filled](extension-configuration-filled.png "Extension Configuration Filled")
 
 ## Setting Up Actions
 
@@ -80,7 +80,7 @@ After configuring the extension, you can create actions to send conversion event
 
 The action configuration interface is organized into three main sections:
 
-![Extension Action View](extension-action-view.png)
+![Extension Action View](extension-action-view.png "Extension Action View")
 
 #### 1. Main-body Parameters
 
@@ -152,7 +152,7 @@ These parameters provide additional context about the conversion event:
 
 Here's an example of a configured Purchase event:
 
-![Extension Action Filled](extension-action-filled.png)
+![Extension Action Filled](extension-action-filled.png "Extension Action Filled")
 
 In this example:
 
